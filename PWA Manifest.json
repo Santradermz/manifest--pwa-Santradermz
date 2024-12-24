@@ -7,12 +7,12 @@
   "theme_color": "#4CAF50",
   "icons": [
     {
-      "src": "https://santradermz.blogspot.com/favicon.ico" rel="icon" type="image/x-icon",
+      "src": "https://santradermz.blogspot.com/favicon.ico",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://santradermz.blogspot.com/favicon.ico" rel="icon" type="image/x-icon",
+      "src": "https://santradermz.blogspot.com/favicon.ico",
       "sizes": "512x512",
       "type": "image/png"
     }
